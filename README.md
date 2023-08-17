@@ -1,0 +1,2 @@
+# YamatoCannon
+Yamato Cannon Translation
