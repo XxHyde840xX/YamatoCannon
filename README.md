@@ -1,2 +1,2 @@
 # YamatoCannon
-Yamato Cannon Translation
+Yamato Cannon Translation - Definitely needs a second pass.
